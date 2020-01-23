@@ -1,0 +1,61 @@
+.cover_produits_bd {
+    width: 100%;
+}
+
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.text-titre-produit {
+    font-size: 30pt;
+}
+
+h2 {
+    padding-bottom: 5px;
+    padding-top: 50px;
+    
+}
+
+.heignt-fix {
+    height: 200px;
+}
+
+.hover-size {
+    transition: 0.2s height;
+}
+
+.hover-size:hover {
+    height: 210px;
+}
+
+.hover-border {
+    transition:  0.2s border;
+}
+
+.hover-border:hover {
+    border: solid 1px rgb(179, 169, 169) ;
+}
+
+.text-prix {
+    font-size: 14pt;
+}
+
+.text-produit {
+    font-size: 10pt;
+}
+
+.text-plus {
+    font-size: 16pt;
+    padding-top: 10%;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+hr {
+    border-top: 5px solid rgb(179, 169, 169)
+}
+

@@ -1,0 +1,11 @@
+.img-thumbnail_cosplay {
+  height: 200px;
+}
+
+.over-size:hover {
+  border: solid 1px rgb(179, 169, 169);
+}
+.align-text-bottom {
+  vertical-align: super !important;
+  height: 50px;
+}
